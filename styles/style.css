@@ -19,13 +19,13 @@ body{
     margin: 20px 0px;
     border-radius: 15px;
 }
-.element a{
+.element{
     display: flex;
     gap: 50px;
     align-items: center;
     margin: 15px 0px;
     text-align: left;
-    text-decoration: none;
+    /* text-decoration: none; */
     
 }
 .element h3{
